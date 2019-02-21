@@ -1,7 +1,8 @@
 # MinecraftHexxitLauncher
-Minecraft Hexxit Launcher for v1.10 and up on https://bangmaple.com/
 
 A launcher with GUI that changed directly for the maximum utilities and performance.
+
+Minecraft Hexxit Launcher for v1.10 and up on https://bangmaple.com/
 
 Coded with Windows Command Prompt language.
 
